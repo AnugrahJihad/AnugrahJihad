@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with no benefit
 - 💬 Ask me about my life? probably
 - 📫 How to reach me: im good
-- 😄 Pronouns: anything that can make v12 sound
+- 😄 Pronouns: anything that can make v12 engine sound
 - ⚡ Fun fact: im actually v12 engine from ferrari purosangue
