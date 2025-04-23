@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahjihad&label=Profile%20views&color=0e75b6&style=flat" alt="anugrahjihad" /> </p>
 
-- 🌱 I’m currently learning **PHP,JavaScript,C++ and Python**
+- 🌱 I’m currently learning **PHP, JavaScript, C++ and Python**
 
 - 📫 How to reach me **anugrahjihadn@gmail.com**
 
